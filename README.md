@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mwalidshaarawi
+- 👀 I’m interested in Machine Learning, AI and Security
+- 🌱 I’m currently learning Deep Learning and AI model development
+- 💞️ I’m looking to collaborate on any AI or security related project
+- 📫 To reach me, email me on mshaarawi_career@hotmail.com
